@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04CF1854-4417-438F-8F36-7A727CAE380A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TPCDynamicTextFiled</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AAB83D7B2E8D032FDA4A2538FEE98B6F3BF31F0B</key>
+		<string>https://github.com/tripleCC/TPCDynamicTextFiled.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TPCDynamicTextFiled.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AAB83D7B2E8D032FDA4A2538FEE98B6F3BF31F0B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tripleCC/TPCDynamicTextFiled.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AAB83D7B2E8D032FDA4A2538FEE98B6F3BF31F0B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AAB83D7B2E8D032FDA4A2538FEE98B6F3BF31F0B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TPCDynamicTextFiled</string>
+		</dict>
+	</array>
+</dict>
+</plist>
